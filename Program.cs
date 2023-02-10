@@ -1,5 +1,4 @@
 using System.Text.Json;
-using Microsoft.AspNetCore.Rewrite;
 
 var builder = WebApplication.CreateBuilder(args);
 
